@@ -4,11 +4,11 @@ the another option is to play with the most perfect AI player.
 
 it is android app 
 
-#what I used to do this .
+# what I used to do this .
 -AI algorithim called minimax algorithm
 -Butterknife Lip
 -android ui , java
 
-#end 
+# end 
 i hope you like it.
 
