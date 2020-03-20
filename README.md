@@ -12,6 +12,10 @@ it is android app .
 
 -android ui , java.
 
+# link 
+video link.
+https://youtu.be/RZnNgnKrPgk .
+
 # end 
 i hope you like it.
 
